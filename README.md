@@ -14,10 +14,12 @@ temperature ceaselessly. Usually this can be the foremost very important profit 
 strategy of automation can give among the sphere of every agriculture..
 We use an Arduino Nano board to send the control signals and to connect to our Blynk App. 
 On the App, four things are displayed:
+
 • Motor status 
 • Moisture level 
 • Atmospheric temperature and moisture
 • Rain detector
+
 The circuit keeps checking the moisture content of the soil by means of a moisture sensor, 
 and updates the “Moisture level” on the app. The user can then check the current moisture 
 level from a remote location and control the water supply. For this, the user only has to toggle 
