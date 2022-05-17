@@ -1,6 +1,6 @@
 # Smart-Irrigation-Sysytem
 
-Methodology
+**Methodology**
 The planned system includes an Arduino NANO that is the management unit of the whole 
 system, a temperature sensing element connected with an Arduino module that senses 
 temperature of surroundings, a Rain sensing module for perceiving rain and managing 
@@ -29,7 +29,7 @@ for a person to be continuously present at his/her garden but one can use this p
 track of ‘soil-moisture’ and ensure proper water supply even from a distance.
 
 
-Functional Requirements
+**Functional Requirements**
 The planned IoT irrigation system has the subsequent practical necessities of the hardware: 
 • The detectors ought to gather sensor knowledge and pass it to the Arduino nano.
 • The actuators ought to receive inputs from the Arduino Nano and translate those 
